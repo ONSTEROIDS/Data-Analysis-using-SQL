@@ -32,24 +32,9 @@ The goal of this task is to extract and analyze structured data using SQL. This 
 - Usage of aggregate functions: `SUM()`, `AVG()`, `COUNT()`
 - Created SQL views for recurring analyses
 - Indexed columns to optimize query performance
-- Query examples for business metrics like average revenue per user (ARPU), total sales, user segmentation, etc.
 
-## 📚 Sample Interview Questions Answered  
-- Difference between `WHERE` and `HAVING`  
-- Types of SQL `JOIN`s  
-- What are subqueries and how to use them  
-- Optimizing SQL queries using `INDEX`, `EXPLAIN`, etc.  
-- Use of `VIEW` in SQL for simplifying complex queries  
-- Handling `NULL` values with `COALESCE()` and `IS NULL`
 
 ## 📸 Output  
 Screenshots of SQL query outputs have been added in the `screenshots` folder.
 
-## 📌 How to Run  
-1. Open the SQL file (`queries.sql`) in your preferred SQL IDE  
-2. Connect to the provided ecommerce database  
-3. Run the queries to explore and analyze the dataset  
 
----
-
-Let me know if you want a version tailored for a specific SQL engine or dataset you used!
